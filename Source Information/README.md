@@ -117,11 +117,20 @@
 			<td>http://creativecommons.org/licenses/by/4.0/</td>
 		</tr>
 		<tr>
+			<td>iDISK</td>
+			<td>Dietary Supplement Ingredient, Dietary Supplement Product, Disease, Drug, Anatomy, Symptom, Therapeutic Class</td>
+			<td>144,536</td>
+			<td>DSI-Anatomy, DSI-Symptom, DSI-Disease, DSI-Drug, DSI-DSP, DSI-TC</td>
+			<td>705,075</td>
+			<td>https://conservancy.umn.edu/handle/11299/204783</td>
+			<td>https://creativecommons.org/licenses/by-sa/3.0/us/</td>
+		</tr>
+		<tr>
 			<td>KEGG</td>
-			<td>Drug, Disease, Gene, Variant, Compound, Pathway</td>
-			<td>33,756,186</td>
-			<td>Drug-Gene, Disease-Gene, Gene-Pathway</td>
-			<td>43,464</td>
+			<td>Drug, Disease, Gene, Pathway</td>
+			<td>42,181</td>
+			<td>Drug-Gene, Disease-Gene, Gene-Pathway, Disease-Pathway, Drug-Pathway</td>
+			<td>65,505</td>
 			<td>https://www.kegg.jp/</td>
 			<td>http://creativecommons.org/licenses/by-nc/2.0/uk/</td>
 		</tr>
@@ -133,6 +142,24 @@
 			<td>61,616</td>
 			<td>https://www.pharmgkb.org/</td>
 			<td>https://creativecommons.org/licenses/by-sa/4.0/</td>
+		</tr>
+		<tr>
+			<td>Reactome</td>
+			<td>Gene, Pathway (H. sapiens)</td>
+			<td>13,589</td>
+			<td>Gene-Pathway</td>
+			<td>13,732</td>
+			<td>https://reactome.org/</td>
+			<td>https://creativecommons.org/licenses/by/4.0/</td>
+		</tr>
+		<tr>
+			<td>SIDER</td>
+			<td>Drug, Side-effect</td>
+			<td>5,681</td>
+			<td>Drug-Side effect</td>
+			<td>163,206</td>
+			<td>http://sideeffects.embl.de/</td>
+			<td>https://creativecommons.org/licenses/by-nc-sa/4.0/</td>
 		</tr>
 		<tr>
 			<td>TISSUE</td>
